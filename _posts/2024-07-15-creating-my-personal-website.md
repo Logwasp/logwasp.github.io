@@ -4,7 +4,7 @@ title: "Creating my Personal Website"
 date: 2024-07-15 19:36 -0500
 categories: [Website, Creation]
 tags: [website_development]     # TAG names should always be lowercase
-description: The initial development of this website your looking at right now, and its first post!
+description: The initial development of this website you're looking at right now, and its first post!
 ---
 
 ---
