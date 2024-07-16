@@ -11,7 +11,7 @@ title: About me
 
 This is my personal website where I will document the projects I create. 
 
-My intrests include:
+My interests include:
  - C# development
  - Shaders and graphics development
  - Hardware development
