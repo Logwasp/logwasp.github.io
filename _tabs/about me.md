@@ -13,14 +13,14 @@ This is my personal website where I will document the projects I create.
 
 My intrests include:
  - C# development
- - Shaders and grpahics development
+ - Shaders and graphics development
  - Hardware development
  - Anything else cool and colorful!
 
- To support these intrests I will undertake various projects to scratch the random coding itches in my brain!
+ To support these interests I will undertake various projects to scratch the random coding itches in my brain!
  I've been passionate about coding for many years and have touched on things from Unity to Python!
 
- My other intrests are:
+ My other interests are:
  - Philosphy
  - Literature
  - Cross Country running
